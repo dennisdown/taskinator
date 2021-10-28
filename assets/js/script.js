@@ -36,7 +36,7 @@ var taskFormHandler = function(event) {
       status: "to do"
     }
 
-    createTaskEl(taskDataObj);
+    createTaskEl(taskDataObj);  
   }
 };
 
