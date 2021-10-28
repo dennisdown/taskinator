@@ -36,8 +36,6 @@ var taskFormHandler = function (event) {
       type: taskTypeInput,
       status: "to do",
     };
-
-    createTaskEl(taskDataObj);
   }
 };
 
